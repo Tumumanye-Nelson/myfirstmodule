@@ -1,0 +1,3 @@
+org/openmrs/module/myfirstmodule/web/controller/MyfirstmoduleController.class
+org/openmrs/module/myfirstmodule/extension/html/AdminList.class
+org/openmrs/module/myfirstmodule/fragment/controller/UsersFragmentController.class

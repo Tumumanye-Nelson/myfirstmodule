@@ -1,0 +1,6 @@
+/root/myfirstmodule/api/src/main/java/org/openmrs/module/myfirstmodule/api/dao/MyfirstmoduleDao.java
+/root/myfirstmodule/api/src/main/java/org/openmrs/module/myfirstmodule/Item.java
+/root/myfirstmodule/api/src/main/java/org/openmrs/module/myfirstmodule/MyfirstmoduleConfig.java
+/root/myfirstmodule/api/src/main/java/org/openmrs/module/myfirstmodule/api/impl/MyfirstmoduleServiceImpl.java
+/root/myfirstmodule/api/src/main/java/org/openmrs/module/myfirstmodule/MyfirstmoduleActivator.java
+/root/myfirstmodule/api/src/main/java/org/openmrs/module/myfirstmodule/api/MyfirstmoduleService.java

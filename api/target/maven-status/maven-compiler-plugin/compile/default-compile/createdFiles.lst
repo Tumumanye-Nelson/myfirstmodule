@@ -1,0 +1,6 @@
+org/openmrs/module/myfirstmodule/Item.class
+org/openmrs/module/myfirstmodule/MyfirstmoduleConfig.class
+org/openmrs/module/myfirstmodule/api/impl/MyfirstmoduleServiceImpl.class
+org/openmrs/module/myfirstmodule/api/dao/MyfirstmoduleDao.class
+org/openmrs/module/myfirstmodule/api/MyfirstmoduleService.class
+org/openmrs/module/myfirstmodule/MyfirstmoduleActivator.class
